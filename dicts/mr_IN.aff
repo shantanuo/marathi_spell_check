@@ -1,6 +1,4 @@
 SET UTF8
-ICONV 1
-ICONV ’ '
 NEEDAFFIX c
 
 SFX P Y 5
