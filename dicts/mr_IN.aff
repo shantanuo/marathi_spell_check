@@ -1,29 +1,46 @@
 SET UTF8
 ICONV 1
 ICONV ’ '
-FLAG long
+NEEDAFFIX c
 
-SFX an Y 12
-SFX an 0 स .
-SFX an 0 ला .
-SFX an 0 ना .
-SFX an 0 नी .
-SFX an 0 शी .
-SFX an 0 ही .
-SFX an 0 हून .
-SFX an 0 चा .
-SFX an 0 ची .
-SFX an 0 चे .
-SFX an 0 त .
-SFX an 0 नो .
+SFX P Y 5
+SFX P 0 ण्या/QeZ .
+SFX P 0 ल्या/QeZ .
+SFX P 0 ल्यां/QaZ .
+SFX P 0 लेल्या/QeZ .
+SFX P 0 लेल्यां/QaZ .
 
-SFX ek Y 9
-SFX ek 0 स .
-SFX ek 0 ला .
-SFX ek 0 ने .
-SFX ek 0 शी .
-SFX ek 0 हून .
-SFX ek 0 चा .
-SFX ek 0 ची .
-SFX ek 0 चे .
-SFX ek 0 त .
+SFX Q Y 4
+SFX Q 0 साठी .
+SFX Q 0 नंतर .
+SFX Q 0 वर .
+SFX Q 0 मागे .
+
+SFX Z Y 2
+SFX Z 0 च .
+SFX Z 0 ही .
+
+SFX e Y 9
+SFX e 0 स .
+SFX e 0 ला .
+SFX e 0 ने .
+SFX e 0 शी .
+SFX e 0 हून .
+SFX e 0 चा .
+SFX e 0 ची .
+SFX e 0 चे .
+SFX e 0 त .
+
+SFX a Y 12
+SFX a 0 स .
+SFX a 0 ला .
+SFX a 0 ना .
+SFX a 0 नी .
+SFX a 0 शी .
+SFX a 0 ही .
+SFX a 0 हून .
+SFX a 0 चा .
+SFX a 0 ची .
+SFX a 0 चे .
+SFX a 0 त .
+SFX a 0 नो .
