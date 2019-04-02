@@ -1,44 +1,58 @@
 SET UTF8
-NEEDAFFIX c
+NEEDAFFIX F
+NOSUGGEST S
 
 SFX P Y 5
-SFX P 0 ण्या/QeZ .
-SFX P 0 ल्या/QeZ .
-SFX P 0 ल्यां/QaZ .
-SFX P 0 लेल्या/QeZ .
-SFX P 0 लेल्यां/QaZ .
+SFX P 0 ण्या/QZac .
+SFX P 0 ल्या/QZac .
+SFX P 0 ल्यां/QZbc .
+SFX P 0 लेल्या/QZac .
+SFX P 0 लेल्यां/QZbc .
 
-SFX Q Y 4
-SFX Q 0 साठी .
-SFX Q 0 नंतर .
-SFX Q 0 वर .
+SFX Q Y 5
+SFX Q 0 साठी/c .
+SFX Q 0 नंतर/c .
+SFX Q 0 वर/c .
 SFX Q 0 मागे .
+SFX Q 0 माग/c .
 
 SFX Z Y 2
 SFX Z 0 च .
 SFX Z 0 ही .
 
-SFX e Y 9
-SFX e 0 स .
-SFX e 0 ला .
-SFX e 0 ने .
-SFX e 0 शी .
-SFX e 0 हून .
-SFX e 0 चा .
-SFX e 0 ची .
-SFX e 0 चे .
-SFX e 0 त .
+SFX c Y 9
+SFX c 0 स .
+SFX c 0 ला .
+SFX c 0 शी .
+SFX c 0 हून .
+SFX c 0 चा .
+SFX c 0 ची .
+SFX c 0 चे .
+SFX c 0 च्या .
+SFX c 0 त .
 
-SFX a Y 12
-SFX a 0 स .
-SFX a 0 ला .
-SFX a 0 ना .
-SFX a 0 नी .
-SFX a 0 शी .
-SFX a 0 ही .
-SFX a 0 हून .
-SFX a 0 चा .
-SFX a 0 ची .
-SFX a 0 चे .
-SFX a 0 त .
-SFX a 0 नो .
+SFX a Y 1
+SFX a 0 ने .
+
+SFX b Y 3
+SFX b 0 ना .
+SFX b 0 नो .
+SFX b 0 नी .
+
+PFX	m	Y	4
+PFX	m	0	मुख्य	.
+PFX	m	0	प्रधान	.
+PFX	m	0	महा	.
+PFX	m	0	उप	.
+
+PFX	&	Y	1
+PFX	&	0	अर्थ	.
+
+SFX v Y 3
+SFX v 0 वा . 
+SFX v 0 वी . 
+SFX v 0 वे . 
+
+SFX q Y 2
+SFX q ीस िसा/Fcav ीस
+SFX q ीस िशी/ca ीस
