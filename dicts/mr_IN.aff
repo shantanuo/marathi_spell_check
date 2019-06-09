@@ -2,12 +2,7 @@ SET UTF8
 NEEDAFFIX F
 NOSUGGEST S
 
-SFX P Y 63
-SFX P 0 ण्या/QZac .
-SFX P 0 ल्या/QZac .
-SFX P 0 ल्यां/QZbc .
-SFX P 0 लेल्या/QZac .
-SFX P 0 लेल्यां/QZbc .
+SFX P Y 58
 SFX P 0 तो .
 SFX P 0 ते .
 SFX P 0 तोस .
