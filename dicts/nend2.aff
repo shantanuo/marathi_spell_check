@@ -2,6 +2,12 @@
 NEEDAFFIX F
 NOSUGGEST S
 
+SFX Q Y 1
+SFX Q णे वणे/P णे
+
+SFX R Y 1
+SFX R णे ावणे/P णे
+
 SFX P Y 59
 SFX P णे तो णे
 SFX P णे ते णे
