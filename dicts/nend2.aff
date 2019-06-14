@@ -132,29 +132,29 @@ SFX A 0 साठी/c .
 SFX A 0 सारखा .
 
 SFX Z Y 2
-SFX Z णे च णे
-SFX Z णे ही णे
+SFX Z 0 च .
+SFX Z 0 ही .
 
 SFX c Y 6
-SFX c णे ला णे
-SFX c णे शी णे
-SFX c णे चा णे
-SFX c णे ची णे
-SFX c णे चे णे
-SFX c णे च्या णे
+SFX c 0 ला .
+SFX c 0 शी .
+SFX c 0 चा .
+SFX c 0 ची .
+SFX c 0 चे .
+SFX c 0 च्या .
 
 SFX d Y 3
-SFX d णे स णे
-SFX d णे त णे
-SFX c णे हून णे
+SFX d 0 स .
+SFX d 0 त .
+SFX c 0 हून .
 
 SFX a Y 1
-SFX a णे ने णे
+SFX a 0 ने .
 
 SFX b Y 3
-SFX b णे ना णे
-SFX b णे नो णे
-SFX b णे नी णे
+SFX b 0 ना .
+SFX b 0 नो .
+SFX b 0 नी .
 
 PFX	m	Y	4
 PFX	m	णे	मुख्य	णे
