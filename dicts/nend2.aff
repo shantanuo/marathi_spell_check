@@ -157,18 +157,18 @@ SFX b 0 नो .
 SFX b 0 नी .
 
 PFX	m	Y	4
-PFX	m	णे	मुख्य	णे
-PFX	m	णे	प्रधान	णे
-PFX	m	णे	महा	णे
-PFX	m	णे	उप	णे
+PFX	m	0	मुख्य	.
+PFX	m	0	प्रधान	.
+PFX	m	0	महा	.
+PFX	m	0	उप	.
 
 PFX	&	Y	1
-PFX	&	णे	अर्थ	णे
+PFX	&	0 अर्थ	.
 
 SFX v Y 3
-SFX v णे वा णे 
-SFX v णे वी णे 
-SFX v णे वे णे 
+SFX v 0 वा . 
+SFX v 0 वी . 
+SFX v 0 वे . 
 
 SFX q Y 2
 SFX q ीस िसा/Fcav ीस
