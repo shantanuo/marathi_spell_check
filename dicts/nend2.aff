@@ -8,7 +8,7 @@ SFX Q णे वणे/P णे
 SFX R Y 1
 SFX R णे ावणे/P णे
 
-SFX P Y 59
+SFX P Y 62
 SFX P णे तो णे
 SFX P णे ते णे
 SFX P णे तोस णे
@@ -31,8 +31,6 @@ SFX P णे ले णे
 SFX P णे लेला णे
 SFX P णे लेली णे
 SFX P णे लेले णे
-SFX P णे लेल्या/A णे
-SFX P णे ल्या/A णे
 SFX P णे लीत णे
 SFX P णे लेत णे
 SFX P णे लेस णे
@@ -66,8 +64,14 @@ SFX P णे णार णे
 SFX P णे णारा णे
 SFX P णे णारी णे
 SFX P णे णारे णे
-SFX P णे णाऱ्या/A णे
 SFX P णे णे णे
+SFX P णे णाऱ्या/A णे
+SFX P णे णाऱ्यां/A णे
+SFX P णे ण्या/A णे
+SFX P णे लेल्या/A णे
+SFX P णे लेल्यां/A णे
+SFX P णे ल्या/A णे
+
 
 SFX A Y 54
 SFX A 0 आतून/c .
