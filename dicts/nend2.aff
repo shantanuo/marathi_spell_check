@@ -80,8 +80,7 @@ SFX Z Y 2
 SFX Z णे च णे
 SFX Z णे ही णे
 
-SFX c Y 9
-SFX c णे स णे
+SFX c Y 7
 SFX c णे ला णे
 SFX c णे शी णे
 SFX c णे हून णे
@@ -89,7 +88,10 @@ SFX c णे चा णे
 SFX c णे ची णे
 SFX c णे चे णे
 SFX c णे च्या णे
-SFX c णे त णे
+
+SFX d Y 2
+SFX d णे स णे
+SFX d णे त णे
 
 SFX a Y 1
 SFX a णे ने णे
