@@ -64,12 +64,13 @@ SFX P णे णार णे
 SFX P णे णारा णे
 SFX P णे णारी णे
 SFX P णे णारे णे
-SFX P णे णाऱ्या/A णे
-SFX P णे णाऱ्यां/A णे
-SFX P णे ण्या/A णे
-SFX P णे लेल्या/A णे
-SFX P णे लेल्यां/A णे
-SFX P णे ल्या/A णे
+SFX P णे णाऱ्या/Aacd णे
+SFX P णे णाऱ्यां/Abcd णे
+SFX P णे ण्या/Aacd णे
+SFX P णे ण्यां/Abcd णे
+SFX P णे लेल्या/Aacd णे
+SFX P णे लेल्यां/Abcd णे
+SFX P णे ल्या/Aacd णे
 
 
 SFX A Y 54
@@ -99,7 +100,7 @@ SFX A 0 पेक्षा .
 SFX A 0 पैकी/c .
 SFX A 0 पोटी/c .
 SFX A 0 प्रत .
-SFX A 0 प्रति .
+SFX A 0 प्रती .
 SFX A 0 प्रमाणे/c .
 SFX A 0 बदली/c .
 SFX A 0 बद्दल/c .
@@ -146,7 +147,7 @@ SFX c 0 च्या .
 SFX d Y 3
 SFX d 0 स .
 SFX d 0 त .
-SFX c 0 हून .
+SFX d 0 हून .
 
 SFX a Y 1
 SFX a 0 ने .
