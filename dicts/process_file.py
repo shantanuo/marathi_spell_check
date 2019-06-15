@@ -9,3 +9,13 @@
             except:
                 pass
             
+            
+            
+with open('nend3.dic', 'w+') as d:
+    with open ('nend2.dic') as f:
+        for i in list(f):
+            x = i.rstrip('\n')
+            if 'ु' in x[-8:]:
+                d.write(x.replace('N', '')+'\n')
+            else:
+                d.write(x+'\n')
