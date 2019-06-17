@@ -38,6 +38,7 @@ SFX P णे लीस णे
 SFX P णे ले णे
 SFX P णे लं णे
 SFX P णे लेला णे
+SFX P णे लेलो णे
 SFX P णे लेली णे
 SFX P णे लेले णे
 SFX P णे लेलं णे
@@ -149,7 +150,7 @@ SFX O णे िलेल्यां/Abcd णे
 SFX O णे िल्या/Aacd णे
 
 
-SFX A Y 62
+SFX A Y 64
 SFX A 0 आतून/c .
 SFX A 0 आधी/c .
 SFX A 0 ऐवजी/c .
@@ -164,6 +165,7 @@ SFX A 0 खालून/c .
 SFX A 0 खेरीज/c .
 SFX A 0 चं .
 SFX A 0 च .
+SFX A 0 ही .
 SFX A 0 जवळ/c .
 SFX A 0 नजीक/c .
 SFX A 0 नंतर/c .
@@ -212,6 +214,7 @@ SFX A 0 सारखा .
 SFX A 0 सारखी .
 SFX A 0 सारखे .
 SFX A 0 सारखं .
+SFX A 0 सारख्या .
 
 
 SFX Z Y 2
