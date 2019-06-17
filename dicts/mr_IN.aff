@@ -11,7 +11,7 @@ SFX Q णे वणे/P णे
 SFX R Y 1
 SFX R णे ावणे/P णे
 
-SFX P Y 61
+SFX P Y 71
 SFX P णे तो णे
 SFX P णे ते णे
 SFX P णे तोस णे
@@ -28,17 +28,26 @@ SFX P णे त्या णे
 SFX P णे ला णे
 SFX P णे लात णे
 SFX P णे लास णे
+SFX P णे लस णे
+SFX P णे लंस णे
+SFX P णे लय णे
+SFX P णे लंय णे
+SFX P णे लाय णे
 SFX P णे ली णे
 SFX P णे लीस णे
 SFX P णे ले णे
+SFX P णे लं णे
 SFX P णे लेला णे
 SFX P णे लेली णे
 SFX P णे लेले णे
+SFX P णे लेलं णे
 SFX P णे लीत णे
 SFX P णे लेत णे
 SFX P णे लेस णे
 SFX P णे ल्यात णे
 SFX P णे ल्यास णे
+SFX P णे ल्याच णे
+SFX P णे ल्याचं णे
 SFX P णे लो णे
 SFX P णे ू णे
 SFX P णे ाल णे
@@ -75,7 +84,7 @@ SFX P णे लेल्या/Aacd णे
 SFX P णे लेल्यां/Abcd णे
 SFX P णे ल्या/Aacd णे
 
-SFX O Y 61
+SFX O Y 62
 SFX O णे ितो णे
 SFX O णे िते णे
 SFX O णे ितोस णे
@@ -140,7 +149,7 @@ SFX O णे िलेल्यां/Abcd णे
 SFX O णे िल्या/Aacd णे
 
 
-SFX A Y 54
+SFX A Y 62
 SFX A 0 आतून/c .
 SFX A 0 आधी/c .
 SFX A 0 ऐवजी/c .
@@ -153,6 +162,8 @@ SFX A 0 खाली .
 SFX A 0 खाल/Fc .
 SFX A 0 खालून/c .
 SFX A 0 खेरीज/c .
+SFX A 0 चं .
+SFX A 0 च .
 SFX A 0 जवळ/c .
 SFX A 0 नजीक/c .
 SFX A 0 नंतर/c .
@@ -198,6 +209,10 @@ SFX A 0 सह .
 SFX A 0 सहित .
 SFX A 0 साठी/c .
 SFX A 0 सारखा .
+SFX A 0 सारखी .
+SFX A 0 सारखे .
+SFX A 0 सारखं .
+
 
 SFX Z Y 2
 SFX Z 0 च .
