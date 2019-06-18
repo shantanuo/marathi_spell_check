@@ -85,7 +85,7 @@ SFX P णे लेल्या/Aacd णे
 SFX P णे लेल्यां/Abcd णे
 SFX P णे ल्या/Aacd णे
 
-SFX O Y 49
+SFX O Y 62
 SFX O णे ितो णे
 SFX O णे िते णे
 SFX O णे ितोस णे
@@ -93,6 +93,7 @@ SFX O णे ितेस णे
 SFX O णे िता णे
 SFX O णे ितात णे
 SFX O णे ितील णे
+SFX O णे ीत णे
 SFX O णे िताना णे
 SFX O णे ितास णे
 SFX O णे ितीस णे
@@ -101,28 +102,40 @@ SFX O णे ित्या णे
 SFX O णे िला णे
 SFX O णे िलात णे
 SFX O णे िलास णे
-SFX O णे िलस णे
-SFX O णे िलंस णे
-SFX O णे िलय णे
-SFX O णे िलंय णे
-SFX O णे िलाय णे
 SFX O णे िली णे
 SFX O णे िलीस णे
 SFX O णे िले णे
-SFX O णे िलं णे
 SFX O णे िलेला णे
-SFX O णे िलेलो णे
 SFX O णे िलेली णे
 SFX O णे िलेले णे
-SFX O णे िलेलं णे
 SFX O णे िलीत णे
 SFX O णे िलेत णे
 SFX O णे िलेस णे
 SFX O णे िल्यात णे
 SFX O णे िल्यास णे
-SFX O णे िल्याच णे
-SFX O णे िल्याचं णे
 SFX O णे िलो णे
+SFX O णे ू णे
+SFX O णे ाल णे
+SFX O णे ेल णे
+SFX O णे ीन णे
+SFX O णे ेन णे
+SFX O णे ील णे
+SFX O णे ा णे
+SFX O णे ो णे
+SFX O णे ोत णे
+SFX O णे ावा णे
+SFX O णे ावात णे
+SFX O णे ावी णे
+SFX O णे ावीत णे
+SFX O णे ावे णे
+SFX O णे ावेत णे
+SFX O णे ाव्या णे
+SFX O णे ाव्यात णे
+SFX O णे ावास णे
+SFX O णे ावीस णे
+SFX O णे ावेस णे
+SFX O णे ाव्यास णे
+SFX O णे ून णे
 SFX O णे िशील णे
 SFX O णे िणार णे
 SFX O णे िणारा णे
@@ -245,3 +258,12 @@ SFX v 0 वे .
 SFX q Y 2
 SFX q ीस िसा/Fcav ीस
 SFX q ीस िशी/ca ीस
+
+
+SFX e Y 6
+SFX e ा  या/Aacd ा
+SFX e ा  यां/Abcd ा
+SFX e ी  ्या/Aacd ी
+SFX e ी  ्यां/Abcd ी
+SFX e े  ्या/Aacd े
+SFX e े  ्यां/Abcd े
