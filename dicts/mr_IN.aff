@@ -257,6 +257,12 @@ SFX h 0  ं/AFbcd .
 SFX i Y 1
 SFX i 0  े/AFacd .
 
-SFX j Y 8
+SFX j Y 2
 SFX j ा  े/AFacd ा
 SFX j ा  ां/AFbcd ा
+
+SFX k Y 1
+SFX k 0  ा/AFacd .
+
+SFX l Y 1
+SFX l 0  ां/AFbcd .
