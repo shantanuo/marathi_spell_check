@@ -5,7 +5,7 @@ NOSUGGEST S
 SFX N Y 1
 SFX N णे 0 णे
 
-SFX P Y 72
+SFX P Y 68
 SFX P णे तो णे
 SFX P णे ते णे
 SFX P णे तोस णे
@@ -39,10 +39,6 @@ SFX P णे लेलं णे
 SFX P णे लीत णे
 SFX P णे लेत णे
 SFX P णे लेस णे
-SFX P णे ल्यात णे
-SFX P णे ल्यास णे
-SFX P णे ल्याच णे
-SFX P णे ल्याचं णे
 SFX P णे लो णे
 SFX P णे ू णे
 SFX P णे ाल णे
@@ -207,39 +203,38 @@ SFX b 0 ना .
 SFX b 0 नो .
 SFX b 0 नी .
 
-PFX	m	Y	4
-PFX	m	0	मुख्य	.
-PFX	m	0	प्रधान	.
-PFX	m	0	महा	.
-PFX	m	0	उप	.
+PFX	y	Y	4
+PFX	y	0	मुख्य	.
+PFX	y	0	प्रधान	.
+PFX	y	0	महा	.
+PFX	y	0	उप	.
 
 PFX	&	Y	1
 PFX	&	0 अर्थ	.
 
-SFX v Y 3
-SFX v 0 वा . 
-SFX v 0 वी . 
-SFX v 0 वे . 
+SFX x Y 3
+SFX x 0 वा . 
+SFX x 0 वी . 
+SFX x 0 वे . 
 
-SFX q Y 2
-SFX q ीस िसा/Fcav ीस
-SFX q ीस िशी/ca ीस
+SFX w Y 2
+SFX w ीस िसा/Fcav ीस
+SFX w ीस िशी/ca ीस
 
 
 SFX e Y 8
-SFX e ा  ्या/AFacd ा
+SFX e ा  ्या/Aacd ा
 SFX e ा  ्यां/AFbcd ा
-SFX e ी  ्या/AFacd ी
+SFX e ी  ्या/Aacd ी
 SFX e ी  ्यां/AFbcd ी
-SFX e ि  ्या/AFacd ि
+SFX e ि  ्या/Aacd ि
 SFX e ि  ्यां/AFbcd ि
-SFX e े  ्या/AFacd े
+SFX e े  ्या/Aacd े
 SFX e े  ्यां/AFbcd े
 
 SFX f Y 2
 SFX f 0  ा/AFacd .
 SFX f 0  ां/AFbcd .
-
 
 SFX g Y 2
 SFX g 0  ी/AFacd .
@@ -259,4 +254,10 @@ SFX k Y 1
 SFX k 0  ा/AFacd .
 
 SFX l Y 1
-SFX l 0  ां/AFbcd .
+SFX l 0  ी/AFacd .
+
+SFX m Y 1
+SFX m ा  ्या/Aacd ा
+
+SFX n Y 1
+SFX n ा  े/AFacd ा
