@@ -120,8 +120,7 @@ SFX O णे िणारा णे
 SFX O णे िणारी णे
 SFX O णे िणारे णे
 
-SFX A Y 86
-SFX A 0  ंतर्गत .
+SFX A Y 84
 SFX A 0  नुसार .
 SFX A 0 तला .
 SFX A 0 तली .
@@ -129,7 +128,7 @@ SFX A 0 तले .
 SFX A 0 तल्या .
 SFX A 0 तील .
 SFX A 0 तून .
-SFX A 0 ऐवजी/c .
+SFX A 0 ऐवजी .
 SFX A 0 कड/Fc .
 SFX A 0 कडील .
 SFX A 0 कडून/c .
@@ -139,7 +138,7 @@ SFX A 0 करता .
 SFX A 0 खाली .
 SFX A 0 खाल/Fc .
 SFX A 0 खालून .
-SFX A 0 खेरीज/c .
+SFX A 0 खेरीज .
 SFX A 0 चं .
 SFX A 0 च .
 SFX A 0 ही .
@@ -167,7 +166,6 @@ SFX A 0 पोटी .
 SFX A 0 प्रत .
 SFX A 0 प्रती .
 SFX A 0 प्रमाणे .
-SFX A 0 बदली .
 SFX A 0 बद्दल .
 SFX A 0 बरोबर/c .
 SFX A 0 बरोबरच .
@@ -191,7 +189,7 @@ SFX A 0 विना .
 SFX A 0 विरुद्ध/c .
 SFX A 0 विषयी/c .
 SFX A 0 व्यतिरिक्त .
-SFX A 0 शिवाय/c .
+SFX A 0 शिवाय .
 SFX A 0 सकट .
 SFX A 0 संबंधी/c .
 SFX A 0 समवेत .
