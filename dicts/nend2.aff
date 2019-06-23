@@ -155,7 +155,7 @@ SFX A 0 द्वारा .
 SFX A 0 द्वारे .
 SFX A 0 नंतर/c .
 SFX A 0 पर्यंत/c .
-SFX A 0 पाशी/c .
+SFX A 0 पाशी .
 SFX A 0 पासून/c .
 SFX A 0 पुढून/c .
 SFX A 0 पुढे .
@@ -280,3 +280,16 @@ SFX i 0  े/AFacd .
 SFX j Y 2
 SFX j ा  े/AFacd ा
 SFX j ा  ां/AFbcd ा
+
+
+SFX k Y 1
+SFX k 0  ा/AFacd .
+
+SFX l Y 1
+SFX l 0  ी/AFacd .
+
+SFX m Y 1
+SFX m ा  ्या/Aacd ा
+
+SFX n Y 1
+SFX n ा  े/AFacd ा
