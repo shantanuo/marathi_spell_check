@@ -120,7 +120,7 @@ SFX O णे िणारा णे
 SFX O णे िणारी णे
 SFX O णे िणारे णे
 
-SFX A Y 84
+SFX A Y 82
 SFX A 0  नुसार .
 SFX A 0 तला .
 SFX A 0 तली .
@@ -144,7 +144,6 @@ SFX A 0 च .
 SFX A 0 ही .
 SFX A 0 जवळ/c .
 SFX A 0 वर/c .
-SFX A 0 पणे .
 SFX A 0 तर्फे .
 SFX A 0 तही .
 SFX A 0 तील .
@@ -203,7 +202,6 @@ SFX A 0 सारखी .
 SFX A 0 सारखे .
 SFX A 0 सारखं .
 SFX A 0 सारख्या .
-SFX A 0 सुद्धा  .
 SFX A 0 सोबत .
 
 SFX Z Y 2
