@@ -216,15 +216,15 @@ SFX c 0 ची .
 SFX c 0 चे .
 SFX c 0 च्या .
 
-SFX d Y 5
+SFX d Y 4
 SFX d 0 स .
 SFX d 0 त .
 SFX d 0 हून .
 SFX c 0 शी .
-SFX c 0 ला .
 
-SFX a Y 1
+SFX a Y 2
 SFX a 0 ने .
+SFX c 0 ला .
 
 SFX b Y 3
 SFX b 0 ना .
